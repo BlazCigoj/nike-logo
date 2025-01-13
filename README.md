@@ -1,4 +1,4 @@
-Za šolsko nalogo sem v ta že narejen template vstavil png in svg logotip nike.
+Za šolsko nalogo sem v ta že narejen template vstavil png, svg in canvas logotip nike.
 
 PNG:
 
@@ -7,3 +7,5 @@ PNG:
 SVG:
 
 ![image](https://github.com/user-attachments/assets/ce382429-489e-4fc5-96d5-db9e9fa4dcf8)
+
+Canvas:
