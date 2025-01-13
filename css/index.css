@@ -1126,7 +1126,7 @@
   height: 497px;
   object-position: 50% 100%;
   background-position: 50% 50%;
-  background-image: url("/NikeTemplate/images/2bfbf3ac674ace94f6a57eaf2d34ee3d.jpeg");
+  background-image: url("../images/2bfbf3ac674ace94f6a57eaf2d34ee3d.jpeg");
   margin: 0 auto 0 0;
 }
 
@@ -1352,7 +1352,7 @@
 .u-section-4 .u-image-2 {
   width: 470px;
   height: 470px;
-  background-image: url("/NikeTemplate/images/1ab39a337ce2239f8ef9493099ac9f0d.jpeg");
+  background-image: url("../images/1ab39a337ce2239f8ef9493099ac9f0d.jpeg");
   background-position: 50% 50%;
   margin: 106px auto 0 10px;
 }
@@ -1360,7 +1360,7 @@
 .u-section-4 .u-image-3 {
   width: 357px;
   height: 357px;
-  background-image: url("/NikeTemplate/images/d63cd29a6e366fa5543849229f548cd7.jpeg");
+  background-image: url("../images/d63cd29a6e366fa5543849229f548cd7.jpeg");
   background-position: 50% 50%;
   margin: -620px 0 0 auto;
 }
@@ -2217,19 +2217,19 @@
 }
 
 .u-section-6 .u-image-3 {
-  background-image: url("/NikeTemplate/images/701bdb462f67d22176ea317618b7afde.jpeg");
+  background-image: url("../images/701bdb462f67d22176ea317618b7afde.jpeg");
   min-height: 500px;
   background-position: 50% 50%;
 }
 
 .u-section-6 .u-image-4 {
-  background-image: url("/NikeTemplate/images/a000af535b4082d4dd86992dc27bd626.jpeg");
+  background-image: url("../images/a000af535b4082d4dd86992dc27bd626.jpeg");
   min-height: 250px;
   background-position: 50% 50%;
 }
 
 .u-section-6 .u-image-5 {
-  background-image: url("/NikeTemplate/images/1f5a27ba7515656d5dabdc056d45476a.jpeg");
+  background-image: url("../images/1f5a27ba7515656d5dabdc056d45476a.jpeg");
   min-height: 250px;
   background-position: 50% 50%;
 }
@@ -2517,7 +2517,7 @@
 
 .u-section-8 .u-image-1 {
   min-height: 618px;
-  background-image: url("/NikeTemplate/images/edd036c2890f8885145c774ed0fa1b57.jpeg");
+  background-image: url("../images/edd036c2890f8885145c774ed0fa1b57.jpeg");
   background-position: 81.49% 50%;
 }
 
