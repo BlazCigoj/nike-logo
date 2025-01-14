@@ -2,7 +2,7 @@ Za šolsko nalogo sem v ta že narejen template vstavil png, svg in canvas logot
 
 PNG:
 
-![image](https://github.com/user-attachments/assets/363e7066-717a-4243-9a16-197cb2ea0a4a)
+![image](https://github.com/user-attachments/assets/5488e7c5-30d4-4fcc-ba1d-d4432726403c)
 
 SVG:
 
