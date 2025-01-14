@@ -7,3 +7,7 @@ PNG:
 SVG:
 
 ![image](https://github.com/user-attachments/assets/ce382429-489e-4fc5-96d5-db9e9fa4dcf8)
+
+Canvas:
+
+![image](https://github.com/user-attachments/assets/7f955c90-7c01-4cd3-bc9b-4887deb3763f)
