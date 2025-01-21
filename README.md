@@ -10,4 +10,5 @@ SVG:
 
 Bezier Curve:
 
-![image](https://github.com/user-attachments/assets/7f955c90-7c01-4cd3-bc9b-4887deb3763f)
+![image](https://github.com/user-attachments/assets/f506a350-eea4-46ad-b498-708dbde55289)
+
